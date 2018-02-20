@@ -1,5 +1,3 @@
-README.txt
-
 # BookIT by Tejas Shah
 FBLA Coding and Programming Challenge 2018
 Chapter 14590
